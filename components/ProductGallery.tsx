@@ -1,12 +1,6 @@
 'use client';
 import { useState } from 'react';
-export default function ProductGallery({
-  images,
-  name,
-}: {
-  images: string[];
-  name: string;
-}) {
+export default function ProductGallery({ images, name }: { images: string[]; name: string }) {
   const [i, setI] = useState(0);
   return (
     <div>

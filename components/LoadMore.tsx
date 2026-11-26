@@ -2,13 +2,7 @@
 import { useState } from 'react';
 import type { Product } from '../lib/types';
 import ProductCard from './ProductCard';
-export default function LoadMore({
-  items,
-  pageSize = 8,
-}: {
-  items: Product[];
-  pageSize?: number;
-}) {
+export default function LoadMore({ items, pageSize = 8 }: { items: Product[]; pageSize?: number }) {
   const [n, setN] = useState(pageSize);
   return (
     <div>

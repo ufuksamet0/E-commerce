@@ -13,10 +13,10 @@ export default function Header() {
           E-Shop
         </Link>
         <nav className="flex gap-3 text-sm">
-          <Link href="/kategori/kadin">Kadın</Link>
-          <Link href="/kategori/erkek">Erkek</Link>
-          <Link href="/kategori/cocuk">Çocuk</Link>
-          <Link href="/kategori/aksesuar">Aksesuar</Link>
+          <Link href="/kategori/elbise">Elbise</Link>
+          <Link href="/kategori/ust-giyim">Üst Giyim</Link>
+          <Link href="/kategori/alt-giyim">Alt Giyim</Link>
+          <Link href="/kategori/dis-giyim">Dış Giyim</Link>
         </nav>
         <div className="ml-auto flex items-center gap-3">
           <Suspense>
