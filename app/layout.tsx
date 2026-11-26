@@ -19,10 +19,10 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: 'E-Shop - elbise, ust giyim, alt giyim, dis giyim',
-  description: 'Yeni sezon urunler. 5000 TL uzeri kargo bedava, 14 gun iade.',
+  title: 'E-Shop | Elbise, Ust Giyim, Alt Giyim, Dis Giyim',
+  description: 'Elbise, ust giyim, alt giyim ve dis giyimde yeni sezon urunler. 5000 TL uzeri kargo bedava, 14 gun iade.',
   openGraph: {
-    title: 'E-Shop - Yeni Sezon',
+    title: 'E-Shop | Yeni Sezon',
     description: 'Elbise, ust giyim, alt giyim ve dis giyim. Hizli teslimat.',
     locale: 'tr_TR',
     type: 'website',
