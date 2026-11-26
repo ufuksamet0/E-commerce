@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "kadin",
+    "name": "Kadın",
+    "description": "Kadın giyimde yeni sezon.",
+    "image": "https://picsum.photos/seed/kadin-cat/800/600"
+  },
+  {
+    "slug": "erkek",
+    "name": "Erkek",
+    "description": "Erkek giyimde temel parçalar.",
+    "image": "https://picsum.photos/seed/erkek-cat/800/600"
+  },
+  {
+    "slug": "cocuk",
+    "name": "Çocuk",
+    "description": "Çocuklar için rahat giyim.",
+    "image": "https://picsum.photos/seed/cocuk-cat/800/600"
+  },
+  {
+    "slug": "aksesuar",
+    "name": "Aksesuar",
+    "description": "Çanta ve tamamlayıcılar.",
+    "image": "https://picsum.photos/seed/aksesuar-cat/800/600"
+  }
+]
