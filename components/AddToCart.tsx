@@ -29,7 +29,9 @@ export default function AddToCart({ product }: { product: Product }) {
           Beden Tablosu
         </button>
       </div>
-      {showSizes && <p className="mt-1 text-xs text-neutral-600">XS: 34 • S: 36 • M: 38 • L: 40 • XL: 42</p>}
+      {showSizes && (
+        <p className="mt-1 text-xs text-neutral-600">XS: 34 • S: 36 • M: 38 • L: 40 • XL: 42</p>
+      )}
       <div className="mt-2 flex gap-2">
         {product.sizes.map((s) => {
           const out = (product.stockBySize[s] ?? 0) <= 0;
