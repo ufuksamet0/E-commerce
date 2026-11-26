@@ -7,7 +7,12 @@ export default function ProductCard({ p }: { p: Product }) {
     <Link href={`/urun/${p.slug}`} className="overflow-hidden rounded border">
       <div className="relative">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={p.images[0]} alt={p.name} className="aspect-[3/4] w-full object-cover" loading="lazy" />
+        <img
+          src={p.images[0]}
+          alt={p.name}
+          className="aspect-[3/4] w-full object-cover"
+          loading="lazy"
+        />
         {p.isNew && (
           <span className="absolute left-2 top-2 rounded bg-green-600 px-2 py-0.5 text-xs text-white">
             Yeni

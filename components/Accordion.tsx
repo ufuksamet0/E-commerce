@@ -10,7 +10,10 @@ export default function Accordion({
   const [open, setOpen] = useState(false);
   return (
     <div className="border-b py-2">
-      <button className="flex w-full justify-between py-1 font-medium" onClick={() => setOpen(!open)}>
+      <button
+        className="flex w-full justify-between py-1 font-medium"
+        onClick={() => setOpen(!open)}
+      >
         <span>{title}</span>
         <span>{open ? '−' : '+'}</span>
       </button>
