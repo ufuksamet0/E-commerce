@@ -40,14 +40,25 @@ export default function CartPage() {
             </p>
             <p className="text-sm">{tl(l.p.priceTL)}</p>
             <div className="mt-1 flex items-center gap-2">
-              <button className="rounded border px-2" onClick={() => dec(l.slug, l.size)} aria-label="Azalt">
+              <button
+                className="rounded border px-2"
+                onClick={() => dec(l.slug, l.size)}
+                aria-label="Azalt"
+              >
                 −
               </button>
               <span>{l.qty}</span>
-              <button className="rounded border px-2" onClick={() => inc(l.slug, l.size)} aria-label="Arttır">
+              <button
+                className="rounded border px-2"
+                onClick={() => inc(l.slug, l.size)}
+                aria-label="Arttır"
+              >
                 +
               </button>
-              <button className="ml-2 text-sm text-red-600" onClick={() => remove(l.slug, l.size)}>
+              <button
+                className="ml-2 text-sm text-red-600"
+                onClick={() => remove(l.slug, l.size)}
+              >
                 Sil
               </button>
             </div>

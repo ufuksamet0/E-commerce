@@ -24,7 +24,10 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
           <div className="mt-2 flex gap-2">
             {p.colors.map((c) => (
               <span key={c.name} className="flex items-center gap-1 text-sm">
-                <span className="inline-block h-4 w-4 rounded-full border" style={{ background: c.hex }} />
+                <span
+                  className="inline-block h-4 w-4 rounded-full border"
+                  style={{ background: c.hex }}
+                />
                 {c.name}
               </span>
             ))}

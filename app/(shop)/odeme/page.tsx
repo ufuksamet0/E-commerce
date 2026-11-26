@@ -73,7 +73,8 @@ export default function CheckoutPage() {
     <div className="space-y-4">
       <h1 className="text-2xl font-bold">Ödeme</h1>
       <p className="rounded border bg-yellow-50 p-2 text-sm">
-        Test modu: bu sayfada gerçek tahsilat yapılmaz. Kart bilgisi yalnızca format kontrolünden geçer.
+        Test modu: bu sayfada gerçek tahsilat yapılmaz. Kart bilgisi yalnızca format kontrolünden
+        geçer.
       </p>
       <form onSubmit={submit} className="grid gap-3 md:grid-cols-2">
         <input
