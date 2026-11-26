@@ -1,0 +1,730 @@
+[
+  {
+    "id": "p01",
+    "slug": "kadin-oversize-triko-kazak",
+    "name": "Kadin Oversize Triko Kazak",
+    "category": "kadin",
+    "priceTL": 1299,
+    "compareAtPrice": 1699,
+    "colors": [
+      { "name": "Siyah", "hex": "#111111" },
+      { "name": "Haki", "hex": "#6B705C" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-oversize-triko-kazak-1/900/1100",
+      "https://picsum.photos/seed/kadin-oversize-triko-kazak-2/900/1100",
+      "https://picsum.photos/seed/kadin-oversize-triko-kazak-3/900/1100"
+    ],
+    "fabric": "%100 Pamuk",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p02",
+    "slug": "kadin-midi-elbise",
+    "name": "Kadin Midi Elbise",
+    "category": "kadin",
+    "priceTL": 1899,
+    "compareAtPrice": 2399,
+    "colors": [
+      { "name": "Beyaz", "hex": "#FFFFFF" },
+      { "name": "Bordo", "hex": "#7B1E2B" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-midi-elbise-1/900/1100",
+      "https://picsum.photos/seed/kadin-midi-elbise-2/900/1100",
+      "https://picsum.photos/seed/kadin-midi-elbise-3/900/1100"
+    ],
+    "fabric": "%80 Pamuk %20 Polyester",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": true
+  },
+  {
+    "id": "p03",
+    "slug": "kadin-yuksek-bel-jean",
+    "name": "Kadin Yuksek Bel Jean",
+    "category": "kadin",
+    "priceTL": 1599,
+    "compareAtPrice": null,
+    "colors": [
+      { "name": "Lacivert", "hex": "#1F3A5F" },
+      { "name": "Gri", "hex": "#9AA0A6" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-yuksek-bel-jean-1/900/1100",
+      "https://picsum.photos/seed/kadin-yuksek-bel-jean-2/900/1100",
+      "https://picsum.photos/seed/kadin-yuksek-bel-jean-3/900/1100"
+    ],
+    "fabric": "Denim",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": true
+  },
+  {
+    "id": "p04",
+    "slug": "kadin-blazer-ceket",
+    "name": "Kadin Blazer Ceket",
+    "category": "kadin",
+    "priceTL": 2799,
+    "compareAtPrice": 3299,
+    "colors": [
+      { "name": "Bej", "hex": "#D9C5A5" },
+      { "name": "Mavi", "hex": "#3B82C4" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-blazer-ceket-1/900/1100",
+      "https://picsum.photos/seed/kadin-blazer-ceket-2/900/1100",
+      "https://picsum.photos/seed/kadin-blazer-ceket-3/900/1100"
+    ],
+    "fabric": "Viskon karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p05",
+    "slug": "kadin-saten-gomlek",
+    "name": "Kadin Saten Gomlek",
+    "category": "kadin",
+    "priceTL": 1399,
+    "compareAtPrice": null,
+    "colors": [
+      { "name": "Haki", "hex": "#6B705C" },
+      { "name": "Pembe", "hex": "#E8A0B4" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-saten-gomlek-1/900/1100",
+      "https://picsum.photos/seed/kadin-saten-gomlek-2/900/1100",
+      "https://picsum.photos/seed/kadin-saten-gomlek-3/900/1100"
+    ],
+    "fabric": "Yun karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p06",
+    "slug": "kadin-pileli-etek",
+    "name": "Kadin Pileli Etek",
+    "category": "kadin",
+    "priceTL": 1199,
+    "compareAtPrice": 1499,
+    "colors": [
+      { "name": "Bordo", "hex": "#7B1E2B" },
+      { "name": "Yesil", "hex": "#2F7D4F" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-pileli-etek-1/900/1100",
+      "https://picsum.photos/seed/kadin-pileli-etek-2/900/1100",
+      "https://picsum.photos/seed/kadin-pileli-etek-3/900/1100"
+    ],
+    "fabric": "Keten karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p07",
+    "slug": "kadin-kaban",
+    "name": "Kadin Kaban",
+    "category": "kadin",
+    "priceTL": 3999,
+    "compareAtPrice": 4999,
+    "colors": [
+      { "name": "Gri", "hex": "#9AA0A6" },
+      { "name": "Siyah", "hex": "#111111" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-kaban-1/900/1100",
+      "https://picsum.photos/seed/kadin-kaban-2/900/1100",
+      "https://picsum.photos/seed/kadin-kaban-3/900/1100"
+    ],
+    "fabric": "%100 Pamuk",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": true,
+    "isBestseller": true
+  },
+  {
+    "id": "p08",
+    "slug": "kadin-basic-tisort-2li",
+    "name": "Kadin Basic Tisort 2li",
+    "category": "kadin",
+    "priceTL": 799,
+    "compareAtPrice": 999,
+    "colors": [
+      { "name": "Mavi", "hex": "#3B82C4" },
+      { "name": "Beyaz", "hex": "#FFFFFF" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/kadin-basic-tisort-2li-1/900/1100",
+      "https://picsum.photos/seed/kadin-basic-tisort-2li-2/900/1100",
+      "https://picsum.photos/seed/kadin-basic-tisort-2li-3/900/1100"
+    ],
+    "fabric": "%80 Pamuk %20 Polyester",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p09",
+    "slug": "erkek-oversize-tisort",
+    "name": "Erkek Oversize Tisort",
+    "category": "erkek",
+    "priceTL": 899,
+    "compareAtPrice": 1199,
+    "colors": [
+      { "name": "Pembe", "hex": "#E8A0B4" },
+      { "name": "Lacivert", "hex": "#1F3A5F" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-oversize-tisort-1/900/1100",
+      "https://picsum.photos/seed/erkek-oversize-tisort-2/900/1100",
+      "https://picsum.photos/seed/erkek-oversize-tisort-3/900/1100"
+    ],
+    "fabric": "Viskon karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": true,
+    "isBestseller": true
+  },
+  {
+    "id": "p10",
+    "slug": "erkek-oxford-gomlek",
+    "name": "Erkek Oxford Gomlek",
+    "category": "erkek",
+    "priceTL": 1499,
+    "compareAtPrice": 1899,
+    "colors": [
+      { "name": "Yesil", "hex": "#2F7D4F" },
+      { "name": "Bej", "hex": "#D9C5A5" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-oxford-gomlek-1/900/1100",
+      "https://picsum.photos/seed/erkek-oxford-gomlek-2/900/1100",
+      "https://picsum.photos/seed/erkek-oxford-gomlek-3/900/1100"
+    ],
+    "fabric": "Yun karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p11",
+    "slug": "erkek-chino-pantolon",
+    "name": "Erkek Chino Pantolon",
+    "category": "erkek",
+    "priceTL": 1699,
+    "compareAtPrice": null,
+    "colors": [
+      { "name": "Siyah", "hex": "#111111" },
+      { "name": "Haki", "hex": "#6B705C" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-chino-pantolon-1/900/1100",
+      "https://picsum.photos/seed/erkek-chino-pantolon-2/900/1100",
+      "https://picsum.photos/seed/erkek-chino-pantolon-3/900/1100"
+    ],
+    "fabric": "Keten karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p12",
+    "slug": "erkek-denim-ceket",
+    "name": "Erkek Denim Ceket",
+    "category": "erkek",
+    "priceTL": 2499,
+    "compareAtPrice": 2999,
+    "colors": [
+      { "name": "Beyaz", "hex": "#FFFFFF" },
+      { "name": "Bordo", "hex": "#7B1E2B" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-denim-ceket-1/900/1100",
+      "https://picsum.photos/seed/erkek-denim-ceket-2/900/1100",
+      "https://picsum.photos/seed/erkek-denim-ceket-3/900/1100"
+    ],
+    "fabric": "Denim",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": true,
+    "isBestseller": true
+  },
+  {
+    "id": "p13",
+    "slug": "erkek-kapusonlu-sweatshirt",
+    "name": "Erkek Kapusonlu Sweatshirt",
+    "category": "erkek",
+    "priceTL": 1399,
+    "compareAtPrice": 1799,
+    "colors": [
+      { "name": "Lacivert", "hex": "#1F3A5F" },
+      { "name": "Gri", "hex": "#9AA0A6" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-kapusonlu-sweatshirt-1/900/1100",
+      "https://picsum.photos/seed/erkek-kapusonlu-sweatshirt-2/900/1100",
+      "https://picsum.photos/seed/erkek-kapusonlu-sweatshirt-3/900/1100"
+    ],
+    "fabric": "%100 Pamuk",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p14",
+    "slug": "erkek-yun-karisimli-kazak",
+    "name": "Erkek Yun Karisimli Kazak",
+    "category": "erkek",
+    "priceTL": 1799,
+    "compareAtPrice": null,
+    "colors": [
+      { "name": "Bej", "hex": "#D9C5A5" },
+      { "name": "Mavi", "hex": "#3B82C4" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-yun-karisimli-kazak-1/900/1100",
+      "https://picsum.photos/seed/erkek-yun-karisimli-kazak-2/900/1100",
+      "https://picsum.photos/seed/erkek-yun-karisimli-kazak-3/900/1100"
+    ],
+    "fabric": "%80 Pamuk %20 Polyester",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p15",
+    "slug": "erkek-kargo-pantolon",
+    "name": "Erkek Kargo Pantolon",
+    "category": "erkek",
+    "priceTL": 1899,
+    "compareAtPrice": 2299,
+    "colors": [
+      { "name": "Haki", "hex": "#6B705C" },
+      { "name": "Pembe", "hex": "#E8A0B4" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-kargo-pantolon-1/900/1100",
+      "https://picsum.photos/seed/erkek-kargo-pantolon-2/900/1100",
+      "https://picsum.photos/seed/erkek-kargo-pantolon-3/900/1100"
+    ],
+    "fabric": "Viskon karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p16",
+    "slug": "erkek-yagmurluk",
+    "name": "Erkek Yagmurluk",
+    "category": "erkek",
+    "priceTL": 2999,
+    "compareAtPrice": 3599,
+    "colors": [
+      { "name": "Bordo", "hex": "#7B1E2B" },
+      { "name": "Yesil", "hex": "#2F7D4F" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/erkek-yagmurluk-1/900/1100",
+      "https://picsum.photos/seed/erkek-yagmurluk-2/900/1100",
+      "https://picsum.photos/seed/erkek-yagmurluk-3/900/1100"
+    ],
+    "fabric": "Yun karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p17",
+    "slug": "cocuk-kapusonlu-sweatshirt",
+    "name": "Cocuk Kapusonlu Sweatshirt",
+    "category": "cocuk",
+    "priceTL": 799,
+    "compareAtPrice": 999,
+    "colors": [
+      { "name": "Gri", "hex": "#9AA0A6" },
+      { "name": "Siyah", "hex": "#111111" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-kapusonlu-sweatshirt-1/900/1100",
+      "https://picsum.photos/seed/cocuk-kapusonlu-sweatshirt-2/900/1100",
+      "https://picsum.photos/seed/cocuk-kapusonlu-sweatshirt-3/900/1100"
+    ],
+    "fabric": "Denim",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p18",
+    "slug": "cocuk-kot-pantolon",
+    "name": "Cocuk Kot Pantolon",
+    "category": "cocuk",
+    "priceTL": 899,
+    "compareAtPrice": 1099,
+    "colors": [
+      { "name": "Mavi", "hex": "#3B82C4" },
+      { "name": "Beyaz", "hex": "#FFFFFF" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-kot-pantolon-1/900/1100",
+      "https://picsum.photos/seed/cocuk-kot-pantolon-2/900/1100",
+      "https://picsum.photos/seed/cocuk-kot-pantolon-3/900/1100"
+    ],
+    "fabric": "%100 Pamuk",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p19",
+    "slug": "cocuk-elbise",
+    "name": "Cocuk Elbise",
+    "category": "cocuk",
+    "priceTL": 999,
+    "compareAtPrice": 1299,
+    "colors": [
+      { "name": "Pembe", "hex": "#E8A0B4" },
+      { "name": "Lacivert", "hex": "#1F3A5F" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-elbise-1/900/1100",
+      "https://picsum.photos/seed/cocuk-elbise-2/900/1100",
+      "https://picsum.photos/seed/cocuk-elbise-3/900/1100"
+    ],
+    "fabric": "%80 Pamuk %20 Polyester",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": false,
+    "isBestseller": true
+  },
+  {
+    "id": "p20",
+    "slug": "cocuk-yagmurluk",
+    "name": "Cocuk Yagmurluk",
+    "category": "cocuk",
+    "priceTL": 1499,
+    "compareAtPrice": 1899,
+    "colors": [
+      { "name": "Yesil", "hex": "#2F7D4F" },
+      { "name": "Bej", "hex": "#D9C5A5" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-yagmurluk-1/900/1100",
+      "https://picsum.photos/seed/cocuk-yagmurluk-2/900/1100",
+      "https://picsum.photos/seed/cocuk-yagmurluk-3/900/1100"
+    ],
+    "fabric": "Viskon karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p21",
+    "slug": "cocuk-basic-tisort-3lu",
+    "name": "Cocuk Basic Tisort 3lu",
+    "category": "cocuk",
+    "priceTL": 699,
+    "compareAtPrice": 899,
+    "colors": [
+      { "name": "Siyah", "hex": "#111111" },
+      { "name": "Haki", "hex": "#6B705C" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-basic-tisort-3lu-1/900/1100",
+      "https://picsum.photos/seed/cocuk-basic-tisort-3lu-2/900/1100",
+      "https://picsum.photos/seed/cocuk-basic-tisort-3lu-3/900/1100"
+    ],
+    "fabric": "Yun karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p22",
+    "slug": "cocuk-esofman-alti",
+    "name": "Cocuk Esofman Alti",
+    "category": "cocuk",
+    "priceTL": 749,
+    "compareAtPrice": null,
+    "colors": [
+      { "name": "Beyaz", "hex": "#FFFFFF" },
+      { "name": "Bordo", "hex": "#7B1E2B" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-esofman-alti-1/900/1100",
+      "https://picsum.photos/seed/cocuk-esofman-alti-2/900/1100",
+      "https://picsum.photos/seed/cocuk-esofman-alti-3/900/1100"
+    ],
+    "fabric": "Denim",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 0 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p23",
+    "slug": "cocuk-triko-hirka",
+    "name": "Cocuk Triko Hirka",
+    "category": "cocuk",
+    "priceTL": 949,
+    "compareAtPrice": 1199,
+    "colors": [
+      { "name": "Lacivert", "hex": "#1F3A5F" },
+      { "name": "Gri", "hex": "#9AA0A6" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-triko-hirka-1/900/1100",
+      "https://picsum.photos/seed/cocuk-triko-hirka-2/900/1100",
+      "https://picsum.photos/seed/cocuk-triko-hirka-3/900/1100"
+    ],
+    "fabric": "Keten karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p24",
+    "slug": "cocuk-mont",
+    "name": "Cocuk Mont",
+    "category": "cocuk",
+    "priceTL": 1999,
+    "compareAtPrice": 2499,
+    "colors": [
+      { "name": "Bej", "hex": "#D9C5A5" },
+      { "name": "Mavi", "hex": "#3B82C4" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "images": [
+      "https://picsum.photos/seed/cocuk-mont-1/900/1100",
+      "https://picsum.photos/seed/cocuk-mont-2/900/1100",
+      "https://picsum.photos/seed/cocuk-mont-3/900/1100"
+    ],
+    "fabric": "%100 Pamuk",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "XS": 10, "S": 12, "M": 15, "L": 8, "XL": 6 },
+    "isNew": false,
+    "isBestseller": true
+  },
+  {
+    "id": "p25",
+    "slug": "kanvas-tote-canta",
+    "name": "Kanvas Tote Canta",
+    "category": "aksesuar",
+    "priceTL": 899,
+    "compareAtPrice": 1199,
+    "colors": [
+      { "name": "Haki", "hex": "#6B705C" },
+      { "name": "Pembe", "hex": "#E8A0B4" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/kanvas-tote-canta-1/900/1100",
+      "https://picsum.photos/seed/kanvas-tote-canta-2/900/1100"
+    ],
+    "fabric": "%80 Pamuk %20 Polyester",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": true,
+    "isBestseller": true
+  },
+  {
+    "id": "p26",
+    "slug": "deri-kemer",
+    "name": "Deri Kemer",
+    "category": "aksesuar",
+    "priceTL": 649,
+    "compareAtPrice": 849,
+    "colors": [
+      { "name": "Bordo", "hex": "#7B1E2B" },
+      { "name": "Yesil", "hex": "#2F7D4F" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/deri-kemer-1/900/1100",
+      "https://picsum.photos/seed/deri-kemer-2/900/1100"
+    ],
+    "fabric": "Deri",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p27",
+    "slug": "yun-atki",
+    "name": "Yun Atki",
+    "category": "aksesuar",
+    "priceTL": 749,
+    "compareAtPrice": 999,
+    "colors": [
+      { "name": "Gri", "hex": "#9AA0A6" },
+      { "name": "Siyah", "hex": "#111111" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/yun-atki-1/900/1100",
+      "https://picsum.photos/seed/yun-atki-2/900/1100"
+    ],
+    "fabric": "Yun karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p28",
+    "slug": "unisex-sapka",
+    "name": "Unisex Sapka",
+    "category": "aksesuar",
+    "priceTL": 549,
+    "compareAtPrice": null,
+    "colors": [
+      { "name": "Mavi", "hex": "#3B82C4" },
+      { "name": "Beyaz", "hex": "#FFFFFF" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/unisex-sapka-1/900/1100",
+      "https://picsum.photos/seed/unisex-sapka-2/900/1100"
+    ],
+    "fabric": "%100 Pamuk",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 0 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p29",
+    "slug": "mini-crossbody-canta",
+    "name": "Mini Crossbody Canta",
+    "category": "aksesuar",
+    "priceTL": 1299,
+    "compareAtPrice": 1699,
+    "colors": [
+      { "name": "Pembe", "hex": "#E8A0B4" },
+      { "name": "Lacivert", "hex": "#1F3A5F" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/mini-crossbody-canta-1/900/1100",
+      "https://picsum.photos/seed/mini-crossbody-canta-2/900/1100"
+    ],
+    "fabric": "Viskon karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": true,
+    "isBestseller": false
+  },
+  {
+    "id": "p30",
+    "slug": "ipek-sal",
+    "name": "Ipek Sal",
+    "category": "aksesuar",
+    "priceTL": 999,
+    "compareAtPrice": 1299,
+    "colors": [
+      { "name": "Yesil", "hex": "#2F7D4F" },
+      { "name": "Bej", "hex": "#D9C5A5" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/ipek-sal-1/900/1100",
+      "https://picsum.photos/seed/ipek-sal-2/900/1100"
+    ],
+    "fabric": "Ipek karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p31",
+    "slug": "spor-sirt-cantasi",
+    "name": "Spor Sirt Cantasi",
+    "category": "aksesuar",
+    "priceTL": 1599,
+    "compareAtPrice": 1999,
+    "colors": [
+      { "name": "Siyah", "hex": "#111111" },
+      { "name": "Haki", "hex": "#6B705C" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/spor-sirt-cantasi-1/900/1100",
+      "https://picsum.photos/seed/spor-sirt-cantasi-2/900/1100"
+    ],
+    "fabric": "%80 Pamuk %20 Polyester",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": false,
+    "isBestseller": false
+  },
+  {
+    "id": "p32",
+    "slug": "unisex-eldiven",
+    "name": "Unisex Eldiven",
+    "category": "aksesuar",
+    "priceTL": 499,
+    "compareAtPrice": 699,
+    "colors": [
+      { "name": "Beyaz", "hex": "#FFFFFF" },
+      { "name": "Bordo", "hex": "#7B1E2B" }
+    ],
+    "sizes": ["STD"],
+    "images": [
+      "https://picsum.photos/seed/unisex-eldiven-1/900/1100",
+      "https://picsum.photos/seed/unisex-eldiven-2/900/1100"
+    ],
+    "fabric": "Yun karisimli",
+    "care": "30 derecede yikayin, kurutma makinesi kullanmayin, dusuk isida utuleyin.",
+    "stockBySize": { "STD": 25 },
+    "isNew": true,
+    "isBestseller": false
+  }
+]
