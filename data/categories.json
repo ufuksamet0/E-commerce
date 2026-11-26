@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "elbise",
+    "name": "Elbise",
+    "description": "Günlük ve özel günler için elbise modelleri.",
+    "image": "https://picsum.photos/seed/elbise-cat/800/600"
+  },
+  {
+    "slug": "ust-giyim",
+    "name": "Üst Giyim",
+    "description": "Tişört, gömlek, kazak ve sweatshirt.",
+    "image": "https://picsum.photos/seed/ust-giyim-cat/800/600"
+  },
+  {
+    "slug": "alt-giyim",
+    "name": "Alt Giyim",
+    "description": "Pantolon, etek ve şort modelleri.",
+    "image": "https://picsum.photos/seed/alt-giyim-cat/800/600"
+  },
+  {
+    "slug": "dis-giyim",
+    "name": "Dış Giyim",
+    "description": "Ceket, mont ve kaban modelleri.",
+    "image": "https://picsum.photos/seed/dis-giyim-cat/800/600"
+  }
+]

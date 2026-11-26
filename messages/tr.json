@@ -1,0 +1,5 @@
+{
+  "home": { "title": "E-commerce MVP", "subtitle": "Yeni sezon ürünler" },
+  "cart": { "title": "Sepet", "empty": "Sepetiniz boş" },
+  "checkout": { "title": "Ödeme" }
+}
