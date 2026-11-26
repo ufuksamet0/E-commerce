@@ -31,13 +31,22 @@ export default function CategoryFilters() {
         aria-label="Renk"
       >
         <option value="">Renk: Tümü</option>
-        {['Siyah', 'Beyaz', 'Lacivert', 'Bej', 'Haki', 'Bordo', 'Gri', 'Mavi', 'Pembe', 'Yesil'].map(
-          (s) => (
-            <option key={s} value={s}>
-              {s}
-            </option>
-          ),
-        )}
+        {[
+          'Siyah',
+          'Beyaz',
+          'Lacivert',
+          'Bej',
+          'Haki',
+          'Bordo',
+          'Gri',
+          'Mavi',
+          'Pembe',
+          'Yesil',
+        ].map((s) => (
+          <option key={s} value={s}>
+            {s}
+          </option>
+        ))}
       </select>
       <select
         className="rounded border px-2 py-1"

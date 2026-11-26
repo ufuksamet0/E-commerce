@@ -79,10 +79,11 @@ export default function CheckoutPage() {
     );
   }
   return (
-    <div className="py-10">
+    <div className="space-y-4">
       <h1 className="text-2xl font-bold">Ödeme</h1>
       <p className="rounded border bg-yellow-50 p-2 text-sm">
-        Test modu: bu sayfada gerçek tahsilat yapılmaz. Kart bilgisi yalnızca format kontrolünden geçer.
+        Test modu: bu sayfada gerçek tahsilat yapılmaz. Kart bilgisi yalnızca format kontrolünden
+        geçer.
       </p>
       <form onSubmit={submit} className="grid gap-3 md:grid-cols-2">
         <input
@@ -146,7 +147,7 @@ export default function CheckoutPage() {
           placeholder="Kart No 1234 5678 9012 3456"
           value={form.cardNo}
           onChange={(e) => {
-            const d = e.target.value.replace(/\D/g, '').slice(0, 16);
+            const d = e.target.value.replace(/[^0-9]/g, '').slice(0, 16);
             set('cardNo', d.replace(/(.{4})/g, '$1 ').trim());
           }}
         />
@@ -164,16 +165,25 @@ export default function CheckoutPage() {
             onChange={(e) => set('cvv', e.target.value)}
           />
         </div>
+        <label className="flex items-center gap-2 text-sm md:col-span-2">
+          <input
+            type="checkbox"
+            checked={form.kvkk as boolean}
+            onChange={(e) => set('kvkk', e.target.checked)}
+          />{' '}
+          KVKK metnini okudum, onaylıyorum.
+        </label>
         {errors.length > 0 && (
           <ul className="text-sm text-red-600 md:col-span-2">
-            {errors.map((m) => (
-              <li key={m}>{m}</li>
+            {errors.map((m, i) => (
+              <li key={i}>• {m}</li>
             ))}
           </ul>
         )}
         <div className="rounded border p-3 text-sm md:col-span-2">
-          <p>Ara toplam: {tl(sub)}</p>
-          <p>İndirim: -{tl(discount)}</p>
+          <p>
+            Ara toplam: {tl(sub)} {discount > 0 && <span>(indirim −{tl(discount)})</span>}
+          </p>
           <p>Kargo: {shipCost === 0 ? 'Bedava' : tl(shipCost)}</p>
           <p className="font-bold">Toplam: {tl(after + shipCost)}</p>
         </div>

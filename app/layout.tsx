@@ -5,7 +5,8 @@ import './globals.css';
 export const dynamic = 'force-dynamic';
 export const metadata: Metadata = {
   title: 'E-Shop | Elbise, Üst Giyim, Alt Giyim, Dış Giyim',
-  description: '5000 TL üzeri kargo bedava, 14 gün iade.',
+  description:
+    'Elbise, üst giyim, alt giyim ve dış giyimde yeni sezon ürünler. 5000 TL üzeri kargo bedava, 14 gün iade.',
   openGraph: {
     title: 'E-Shop | Yeni Sezon',
     description: 'Elbise, üst giyim, alt giyim ve dış giyim. Hızlı teslimat.',

@@ -9,7 +9,9 @@ export default function Home() {
     <div className="space-y-10">
       <section className="rounded bg-neutral-900 p-8 text-white">
         <h1 className="text-3xl font-bold">Yeni Sezon Geldi</h1>
-        <p className="mt-2">Elbise, üst giyim, alt giyim ve dış giyimde seçili ürünlerde sezona özel fiyatlar.</p>
+        <p className="mt-2">
+          Elbise, üst giyim, alt giyim ve dış giyimde seçili ürünlerde sezona özel fiyatlar.
+        </p>
         <div className="mt-4 flex gap-2">
           <Link href="/kategori/elbise" className="rounded bg-white px-4 py-2 text-black">
             Elbise
@@ -29,6 +31,10 @@ export default function Home() {
       <section className="grid grid-cols-1 gap-3 rounded border p-4 text-sm md:grid-cols-3">
         <div>
           <strong>5000 TL üzeri kargo bedava</strong>
+          <p className="text-neutral-600">Altı siparişlerde 120 TL.</p>
+        </div>
+        <div>
+          <strong>14 gün koşulsuz iade</strong>
           <p className="text-neutral-600">Mağazada ve online geçerli.</p>
         </div>
         <div>

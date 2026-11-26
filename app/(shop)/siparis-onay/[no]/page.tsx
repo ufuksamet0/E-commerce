@@ -17,9 +17,12 @@ export default function SiparisOnayPage({ params }: { params: { no: string } }) 
       <p className="mt-2">
         Sipariş No: <span className="font-mono font-bold">{no}</span>
       </p>
-      <p className="mt-2 text-sm text-gray-600">Bu mock teslimattır; ödeme alınmadı, kargo yapılmaz.</p>
+      <p className="mt-2 text-sm text-gray-600">
+        Bu mock teslimattır; ödeme alınmadı, kargo yapılmaz.
+      </p>
       <Link href="/" className="mt-6 inline-block rounded bg-black px-4 py-2 text-white">
         Alışverişe Devam Et
       </Link>
     </div>
   );
+}

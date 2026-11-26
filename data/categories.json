@@ -2,13 +2,13 @@
   {
     "slug": "elbise",
     "name": "Elbise",
-    "description": "Günlük ve özel gün elbiseleri.",
+    "description": "Günlük ve özel günler için elbise modelleri.",
     "image": "https://picsum.photos/seed/elbise-cat/800/600"
   },
   {
     "slug": "ust-giyim",
     "name": "Üst Giyim",
-    "description": "Tişört, gömlek ve kazak modelleri.",
+    "description": "Tişört, gömlek, kazak ve sweatshirt.",
     "image": "https://picsum.photos/seed/ust-giyim-cat/800/600"
   },
   {

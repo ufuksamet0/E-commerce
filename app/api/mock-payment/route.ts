@@ -27,3 +27,4 @@ export async function POST(req: Request) {
     orderNo: parsed.data.orderNo ?? null,
     amount: parsed.data.amount ?? null,
   });
+}
