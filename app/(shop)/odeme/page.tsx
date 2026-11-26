@@ -165,7 +165,7 @@ export default function CheckoutPage() {
             onChange={(e) => set('cvv', e.target.value)}
           />
         </div>
-        <label className="flex items-center gap-2 text-sm md:col-span-2">
+        <label className="text-sm md:col-span-2">
           <input
             type="checkbox"
             checked={form.kvkk as boolean}
