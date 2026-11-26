@@ -1,6 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 body {
-  @apply bg-white text-neutral-900;
+  @apply bg-cream text-neutral-900 antialiased;
+  font-family: var(--font-sans), Inter, system-ui, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), Fraunces, Georgia, serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

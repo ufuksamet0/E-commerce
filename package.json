@@ -8,9 +8,12 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
+    "analyze": "ANALYZE=true next build",
     "format:check": "prettier --check app lib components store data messages i18n.ts middleware.ts tailwind.config.ts postcss.config.mjs next.config.mjs package.json tsconfig.json README.md"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "14.2.5",
+    "framer-motion": "^12.0.0",
     "next": "14.2.5",
     "next-intl": "3.17.0",
     "react": "18.3.1",
