@@ -4,12 +4,11 @@ import { getMessages } from 'next-intl/server';
 import './globals.css';
 export const dynamic = 'force-dynamic';
 export const metadata: Metadata = {
-  title: 'E-Shop | Yeni Sezon Giyim ve Aksesuar',
-  description:
-    'Kadın, erkek, çocuk giyim ve aksesuarda yeni sezon ürünler. 5000 TL üzeri kargo bedava, 14 gün iade.',
+  title: 'E-Shop | Elbise, Üst Giyim, Alt Giyim, Dış Giyim',
+  description: '5000 TL üzeri kargo bedava, 14 gün iade.',
   openGraph: {
     title: 'E-Shop | Yeni Sezon',
-    description: 'Kadın, erkek, çocuk giyim ve aksesuar. Hızlı teslimat.',
+    description: 'Elbise, üst giyim, alt giyim ve dış giyim. Hızlı teslimat.',
     locale: 'tr_TR',
     type: 'website',
   },

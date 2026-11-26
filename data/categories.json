@@ -1,26 +1,26 @@
 [
   {
-    "slug": "kadin",
-    "name": "Kadın",
-    "description": "Kadın giyimde yeni sezon.",
-    "image": "https://picsum.photos/seed/kadin-cat/800/600"
+    "slug": "elbise",
+    "name": "Elbise",
+    "description": "Günlük ve özel gün elbiseleri.",
+    "image": "https://picsum.photos/seed/elbise-cat/800/600"
   },
   {
-    "slug": "erkek",
-    "name": "Erkek",
-    "description": "Erkek giyimde temel parçalar.",
-    "image": "https://picsum.photos/seed/erkek-cat/800/600"
+    "slug": "ust-giyim",
+    "name": "Üst Giyim",
+    "description": "Tişört, gömlek ve kazak modelleri.",
+    "image": "https://picsum.photos/seed/ust-giyim-cat/800/600"
   },
   {
-    "slug": "cocuk",
-    "name": "Çocuk",
-    "description": "Çocuklar için rahat giyim.",
-    "image": "https://picsum.photos/seed/cocuk-cat/800/600"
+    "slug": "alt-giyim",
+    "name": "Alt Giyim",
+    "description": "Pantolon, etek ve şort modelleri.",
+    "image": "https://picsum.photos/seed/alt-giyim-cat/800/600"
   },
   {
-    "slug": "aksesuar",
-    "name": "Aksesuar",
-    "description": "Çanta ve tamamlayıcılar.",
-    "image": "https://picsum.photos/seed/aksesuar-cat/800/600"
+    "slug": "dis-giyim",
+    "name": "Dış Giyim",
+    "description": "Ceket, mont ve kaban modelleri.",
+    "image": "https://picsum.photos/seed/dis-giyim-cat/800/600"
   }
 ]
