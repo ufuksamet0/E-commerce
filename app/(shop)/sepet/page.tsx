@@ -55,10 +55,7 @@ export default function CartPage() {
               >
                 +
               </button>
-              <button
-                className="ml-2 text-sm text-red-600"
-                onClick={() => remove(l.slug, l.size)}
-              >
+              <button className="ml-2 text-sm text-red-600" onClick={() => remove(l.slug, l.size)}>
                 Sil
               </button>
             </div>
