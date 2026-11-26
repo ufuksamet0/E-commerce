@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { getCategory, categoryProducts } from '../../../../lib/products';
+import { Suspense } from 'react';
 import CategoryFilters from '../../../../components/CategoryFilters';
 import LoadMore from '../../../../components/LoadMore';
 export default function CategoryPage({
@@ -22,7 +23,9 @@ export default function CategoryPage({
     <div className="space-y-4">
       <h1 className="text-2xl font-bold">{cat.name}</h1>
       <p className="text-sm text-neutral-600">{cat.description}</p>
-      <CategoryFilters />
+      <Suspense>
+        <CategoryFilters />
+      </Suspense>
       {items.length === 0 ? <p>Bu filtrede ürün bulunamadı.</p> : <LoadMore items={items} />}
     </div>
   );

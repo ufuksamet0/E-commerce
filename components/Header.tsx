@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { useCart } from '../store/cart';
+import { Suspense } from 'react';
 import SearchBox from './SearchBox';
 export default function Header() {
   const lines = useCart((s) => s.lines);
@@ -18,7 +19,9 @@ export default function Header() {
           <Link href="/kategori/aksesuar">Aksesuar</Link>
         </nav>
         <div className="ml-auto flex items-center gap-3">
-          <SearchBox />
+          <Suspense>
+            <SearchBox />
+          </Suspense>
           <Link href="/sepet" className="rounded bg-black px-3 py-1 text-white">
             Sepet ({count})
           </Link>

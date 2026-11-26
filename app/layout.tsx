@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import './globals.css';
+export const dynamic = 'force-dynamic';
 export const metadata: Metadata = {
   title: 'E-Shop | Yeni Sezon Giyim ve Aksesuar',
   description:
@@ -18,7 +19,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   return (
     <html lang="tr">
       <body>
-        <NextIntlClientProvider messages={messages}>{children}</NextIntlClientProvider>
+        <NextIntlClientProvider locale="tr" messages={messages}>
+          {children}
+        </NextIntlClientProvider>
       </body>
     </html>
   );
